@@ -5,7 +5,7 @@ Experimenting AVR-C for nano pixel LED lights animation + making a custom PCB wi
 <p align="center">
   <img src="images/Mobile_tinsel2.png" width="400" />
   <img src="images/Mobile_tinsel3.jpg" width="400" />
-  <img src="images/PCB.jpg" width="400" />
+  <img src="images/PCB_1.jpg" width="400" />
 </p>
 <br/>
 
